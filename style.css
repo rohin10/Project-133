@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(blue,green,yellow,orange,red);
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+canvas{
+    box-shadow: 5px 5px 6px grey;
+    border-radius: 10px;
+}
+.anchor{
+    background-color: rgb(253, 253, 252);
+    padding: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    border-radius: 10px;
+    color:rgb(2, 1, 2);
+    font-size: 20px;
+}
